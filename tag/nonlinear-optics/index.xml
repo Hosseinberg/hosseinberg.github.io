@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nonlinear optics | Hossein Seifoory</title>
+    <link>https://hosseinberg.github.io/tag/nonlinear-optics/</link>
+      <atom:link href="https://hosseinberg.github.io/tag/nonlinear-optics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nonlinear optics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hosseinberg.netlify.app</copyright><lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hosseinberg.github.io/media/icon_hu29c8e039ddc4291e78d9ceadd343a3ef_29865_512x512_fill_lanczos_center_2.png</url>
+      <title>Nonlinear optics</title>
+      <link>https://hosseinberg.github.io/tag/nonlinear-optics/</link>
+    </image>
+    
+    <item>
+      <title>Squeezed thermal states: the result of parametric down conversion in lossy cavities</title>
+      <link>https://hosseinberg.github.io/publication/seifoory-17/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://hosseinberg.github.io/publication/seifoory-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
